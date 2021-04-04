@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](http://92.119.90.17:1984/spotify)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
+&nbsp; <br> [![Spotify](http://92.119.90.17/)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
 
   </td>
   <td width="50%">
