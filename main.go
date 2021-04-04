@@ -24,11 +24,13 @@ func init() {
 }
 
 // глобальные переменные
-var trackName string
-var artistName string
-var imagedata string
-var myuserUrl string
-var client *spotify.Client
+var (
+	trackName  string
+	artistName string
+	imagedata  string
+	myuserUrl  string
+	client     *spotify.Client
+)
 
 type TrackData struct {
 	TrackName  string
